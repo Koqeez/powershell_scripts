@@ -1,0 +1,1 @@
+ffmpeg -i Mandelbrot00000.png -vf scale="5060/4:6060/4" 1Mandelbrot00000.png
